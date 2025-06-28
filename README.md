@@ -13,12 +13,19 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousefdergham.vercel.app/ to see some of the projects I've worked on.
+## 🧑‍💻 About Me
 
+🎯 I'm a **Front-End Engineer** passionate about building responsive and modern web applications.
+  
+💡 Currently learning advanced **JavaScript**, **TypeScript**, **React**, and exploring **Python** and **AI tools like ChatGPT** to boost productivity and learning.
+  
+🎓 University: Faculty of Agriculture – I got my bachelor's degree.
+
+🎯 Goal:  Goal: Become a professional software engineer and
+
+🛠️ Fields I'm Developing In: Web developer.
+
+👨‍💻 As a Almdrasa student, I'm constantly learning and exploring new technologies to improve my skills.
 
 ### Connect with Me :
 
