@@ -21,7 +21,7 @@
   
 🎓 University: Faculty of Agriculture – I got my bachelor's degree.
 
-🎯 Goal:  Goal: Become a professional software engineer and
+🎯 Goal: Become a professional software engineer
 
 🛠️ Fields I'm Developing In: Web developer.
 
