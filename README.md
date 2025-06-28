@@ -49,8 +49,8 @@
 
 
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="left" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <a href="https://komarev.com/ghpvc/?username=yousseftalaat-collab&style=for-the-badge">
-    <img  align= "left" src="https://komarev.com/ghpvc/?username=yousseftalaat-collab&style=for-the-badge">
+    <img  align= "mediates" src="https://komarev.com/ghpvc/?username=yousseftalaat-collab&style=for-the-badge">
 </a>
