@@ -32,7 +32,7 @@
 
 <a href="https://www.linkedin.com/in/youssef-talaat-1aa2671b3/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a>
 
-<a href=<yousseftalaat142@gmail.com> target="_blank"> <img src="https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=Gmail&logoColor=white"/>
+<a href=yt4993336@gmail.com target="_blank"> <img src="https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=Gmail&logoColor=white"/>
 
 <a href="https://www.buymeacoffee.com/yousefdergham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
